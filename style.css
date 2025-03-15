@@ -62,3 +62,33 @@ li {
     padding: 5px 10px;
     cursor: pointer;
 }
+
+.edit-btn {
+    background: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+.edit-btn:hover {
+    background: #0056b3;
+}
+
+#filter-category {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#expenseChart {
+    max-width: 100%;
+    margin: 20px auto;
+}
+
+#monthlyExpenseChart {
+    max-width: 100%;
+    margin: 20px auto;
+}
